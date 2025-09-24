@@ -2,11 +2,16 @@
 
 Eres un *Product Designer experto* con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es *diseñar una serie de pantallas* que faciliten automatizar los procesos de cotización, seguimiento y administración de inventariado a través de un proceso bien estructurado.
 
-Quiero crear una *interfaz de usuario integral para una aplicación móvil* destinada a [Descripción_del_proceso]. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Quiero crear una *interfaz de usuario integral para una aplicación móvil* destinada a que el usuario tenga la facilidad de que pueda seleccionar las opciones que quiera, que no este abarrotada de información y que pueda obtener informe sobre los procesos que se llevaran a cabo durante la fabricación, la entrega y la instalación de su proyecto de herrería. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
 
 Quiero que generes una *lista secuencial de pantallas* que respalden los procesos principales descritos a continuación:
 
-[Proceso_seleccionadao_para_modelar]
+-Una pantalla de inicio que le permita al usuario registrarse a la aplicación (usario o cliente)
+-Una pantalla de menú donde el usario pueda seleccionar las opciones que desee
+-Una pantalla donde el usario realize la solucitud del trabajo que necesita
+-Una pantalla de espera donde pueda obtener el seguimiento de su pedido
+-Una pantalla de repuestas donde el cliente (herrero) acepta o no la solicutud
+-Una pantalla donde el herrero decline el trabajo y le pueda ofrecer otra opción (diseño o precio a debatir)
 
+Quiero que crees una *lista detallada de pantallas* que respalden los objetivos y subprocesos anteriores, asegurando una experiencia *intuitiva y eficiente para los cliente (herrero) y el usario final*. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de poder entregar .
 
-Quiero que crees una *lista detallada de pantallas* que respalden los objetivos y subprocesos anteriores, asegurando una experiencia *intuitiva y eficiente para los [Tipo_de_usuario]*. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de [Objetivo_del_proceso_principal].
