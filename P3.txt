@@ -14,4 +14,3 @@ Quiero que generes una *lista secuencial de pantallas* que respalden los proce
 -Una pantalla donde el herrero decline el trabajo y le pueda ofrecer otra opción (diseño o precio a debatir)
 
 Quiero que crees una *lista detallada de pantallas* que respalden los objetivos y subprocesos anteriores, asegurando una experiencia *intuitiva y eficiente para los cliente (herrero) y el usario final*. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de poder entregar .
-
